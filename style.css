@@ -21,8 +21,8 @@ body{
 
 img{
   position: absolute;
-  right: 75px;
-  bottom: -30px;
+  right: 105px;
+  bottom: -50px;
   z-index: 5;
   transform: rotate(-60deg);
   max-width: 400px;
